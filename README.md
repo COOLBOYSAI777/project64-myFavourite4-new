@@ -1,2 +1,2 @@
 # project64-myFavourite4-new
-project64-myFavourite4-new
+Favourite four project code repo is documented in this repository
